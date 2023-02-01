@@ -9,6 +9,10 @@ Partme：<https://partme.com/TimeRainStarSky>
 |![访问量](https://visitor-badge.glitch.me/badge?page_id=TimeRainStarSky.SponsorList&left_text=访%20问%20量)|![访问量](https://profile-counter.glitch.me/TimeRainStarSky-SponsorList/count.svg)|
 |-|-|
 
+## 2023年1月
+
+![爱发电-2023年1月](afdian/2023-1.jpg)
+
 ## 2022年12月
 
 ![爱发电-2022年12月](afdian/2022-12.jpg)
